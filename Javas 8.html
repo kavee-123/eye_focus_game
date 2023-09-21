@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java script</title>
+</head>
+<body>
+
+    <p>Enter Your Username</p>
+    <p><input type="text" id="userName"></p>
+    <p><button id="userNameButton"> Enter </button></p>
+    <script>
+
+        /*var x = 2;
+
+        if (x==1){
+
+            alert("x is 1");
+        }
+        else{
+
+            alert("x is not 1");
+        }*/
+
+        document.getElementById("userNameButton").onclick = function(){
+
+            var userNameEntered = document.getElementById("userName").value;
+
+            var userName = "hackinglk";
+
+            if(userName==userNameEntered){
+
+                alert("You are in");
+            }
+            else{
+
+                alert("Nope, Try again");
+            }
+        }
+    </script>
+</body>
+</html>

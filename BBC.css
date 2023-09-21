@@ -1,0 +1,135 @@
+.logo{
+    width: 120px;
+    height: 38px;
+    margin-left: 5%;
+    float: left;
+}
+
+li{
+    float: left;
+    margin-left: 2%;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.sign-logo{
+    width: 25px;
+    height: 25;
+    margin-left: 55%;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.bell-logo{
+    width: 25px;
+    height: 25px;
+}
+
+.more1{
+    border: none;
+    width: 80px;
+}
+
+.search{
+    margin-left: 5%;
+    float: left;
+    background-color: rgb(211, 211, 211);
+    border: none;
+    width: 190px;
+}
+
+.search-logo{
+    width: 25px;
+    height: 18px;
+}
+
+.div1{
+    width: 100%;
+    height: 65px;
+    background-color: rgb(168,23,22);
+    position: relative;
+    top : -30px;
+    
+}
+
+h1{
+    font-size: 55px;
+    color: white;
+    margin-left: 5%;
+}
+
+.local-news{
+    position: absolute; 
+    left: 68%;
+    position: relative;
+    bottom: 270px;
+}
+
+.div2{
+    width: 100%;
+    height: 45px;
+    background-color: rgb(187,25,25);
+    position: relative;
+    bottom: 584px;
+}
+
+.nav2 a{
+    color: white;
+    margin-left: 80%;
+    float: left;
+}
+
+table a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+}
+
+
+table{
+    margin-left: 60px;
+}
+
+.more2{
+    border: none;
+    width: 80px;
+    color: white;
+    background-color: rgb(187,25,25);
+}
+
+h2{
+    margin-left: 5%;
+    position: relative;
+    bottom: 590px;    
+}
+
+.p1{
+    margin-left: 5%;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    bottom: 580px;
+}
+
+.p2{
+    margin-left: 59%;
+    font-size: 26px;
+    position: absolute;
+    bottom: 605px;
+}
+
+.pic1{
+    margin-left: 5%;
+    position: relative;
+    bottom: 600px;
+}
+
+.pic2{
+    margin-left: 2%;
+    position: relative;
+    bottom: 600px;
+}
